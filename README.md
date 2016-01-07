@@ -4,6 +4,6 @@ This list can be used to commit a man in the middle attack on a chosen operator 
 
 the folder grc contains the gnuradio-companion flow graphs 
 the folder app contains the python scripts of the application 
-the folder dependencies contains the applications you need to install to run this program.
+the folder dependencies contains the applications you need to install to run this program. 
 
 
