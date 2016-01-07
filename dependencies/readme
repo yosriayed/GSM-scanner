@@ -1,0 +1,4 @@
+In each folder :
+Run in a console : "python setup.py install"
+Pyshark need to be installed the last.
+you need also to install gr-gsm in gnuradio with pybombs app_store
